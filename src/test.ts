@@ -12,4 +12,8 @@ const Mofssel = (Name: string, Email: string): string => {
   const fullS = `Name: ${Name}   Email: ${Email}`;
   return fullS;
 };
+const Mofassel2 = (Name: string, Email: string): string => {
+  const fullS = `Name: ${Name}   Email: ${Email}`;
+  return fullS;
+};
 console.log(Mofasse("Mofassel Hosain", "mofassel@gmail.com"));
